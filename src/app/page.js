@@ -1,7 +1,7 @@
 "use client";
 import About from "@/components/About";
 import Contact from "@/components/Contact";
-import Hero from "@/components/Hero";
+import Hero from "@/components/Hero/Hero";
 import Journey from "@/components/Testimonials";
 import Skills from "@/components/Plans";
 import { motion } from "framer-motion";

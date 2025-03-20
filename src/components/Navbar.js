@@ -69,7 +69,7 @@ export default function Navbar() {
           transition={{ type: "spring", stiffness: 300 }}
         >
           <Link href="/signup">
-            <button className="px-6 py-2 bg-accent text-darkBg rounded-lg font-bold shadow hover:bg-green-400 transition">
+            <button className="px-6 py-2 bg-accent text-white rounded-lg font-bold shadow hover:bg-green-400 transition">
               Try for Free
             </button>
           </Link>
